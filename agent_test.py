@@ -22,7 +22,7 @@ print(skills[:1000])  # show first 1000 characters
 print("====== END SKILLS ======")
 
 llm = ChatMistralAI(
-    api_key="66MKOsl3IH9hJxff8DedaimdImXCZiiq",
+    api_key="YOUR_API_KEY",
     model="mistral-small-latest"
 )
 
