@@ -1,0 +1,209 @@
+[
+  {
+    "name": "AutoEmailResponder",
+    "description": "Automatically responds to emails based on their subject",
+    "tags": [
+      "Email",
+      "Automation",
+      "Response"
+    ],
+    "script": "skills\\AutoEmailResponder\\scripts/auto_email_responder.py"
+  },
+  {
+    "name": "BlueprintArchitecture",
+    "description": "Generates blueprints for a house of various designs",
+    "tags": [
+      "architecture",
+      "design",
+      "blueprint",
+      "house"
+    ],
+    "script": "skills\\BlueprintArchitecture\\scripts/blueprint_architecture.py"
+  },
+  {
+    "name": "CountLinesInFile",
+    "description": "Counts the number of lines in a given file",
+    "tags": [
+      "count",
+      "lines",
+      "file",
+      "text"
+    ],
+    "script": "skills\\CountLinesInFile\\scripts/count_lines.py"
+  },
+  {
+    "name": "CurrentDateAndTime",
+    "description": "Displays the current date and time",
+    "tags": [
+      "date",
+      "time",
+      "datetime"
+    ],
+    "script": "skills\\CurrentDateAndTime\\scripts/current_date_and_time.py"
+  },
+  {
+    "name": "DestinationItineraryGenerator",
+    "description": "Generates an itinerary for a given destination based on popular categories and attractions.",
+    "tags": [
+      "itinerary",
+      "travel",
+      "destinations",
+      "attractions"
+    ],
+    "script": "skills\\DestinationItineraryGenerator\\scripts/destination_itinerary_generator.py"
+  },
+  {
+    "name": "EmailSender",
+    "description": "Sends an email with a predefined list of subjects",
+    "tags": [
+      "email",
+      "messaging",
+      "automation"
+    ],
+    "script": "skills\\EmailSender\\scripts/email_sender.py"
+  },
+  {
+    "name": "eseBeginnersGuide",
+    "description": "A beginner's guide to learning Japanese",
+    "tags": [
+      "Japanese",
+      "LanguageLearning",
+      "Guide"
+    ],
+    "script": "skills\\eseBeginnersGuide\\scripts/japanese_beginners_guide.py"
+  },
+  {
+    "name": "FindHotels",
+    "description": "Finds top hotels in a given destination",
+    "tags": [
+      "Hotels",
+      "Travel",
+      "Accommodation"
+    ],
+    "script": "skills\\FindHotels\\scripts/find_hotels.py"
+  },
+  {
+    "name": "FindRecipes",
+    "description": "A skill to find recipes for selected meals without network access.",
+    "tags": [
+      "Recipe",
+      "Cooking",
+      "Food"
+    ],
+    "script": "skills\\FindRecipes\\scripts/find_recipes.py"
+  },
+  {
+    "name": "FindTopAttractions",
+    "description": "Finds top attractions in a given destination.",
+    "tags": [
+      "travel",
+      "tourism",
+      "destinations",
+      "attractions"
+    ],
+    "script": "skills\\FindTopAttractions\\scripts/find_top_attractions.py"
+  },
+  {
+    "name": "FindTopMathematicalSequences",
+    "description": "Finds top mathematical sequences based on the input number",
+    "tags": [
+      "Mathematics",
+      "Sequences",
+      "Numbers"
+    ],
+    "script": "skills\\FindTopMathematicalSequences\\scripts/find_mathematical_sequences.py"
+  },
+  {
+    "name": "FindWorkoutExercises",
+    "description": "Generates random workout exercises without user input or external access.",
+    "tags": [
+      "Workout",
+      "Exercise",
+      "Fitness"
+    ],
+    "script": "skills\\FindWorkoutExercises\\scripts/find_workout_exercises.py"
+  },
+  {
+    "name": "FunctionValidator",
+    "description": "Validates the implemented functions in a Python script",
+    "tags": [
+      "testing",
+      "validation",
+      "function",
+      "python"
+    ],
+    "script": "skills\\FunctionValidator\\scripts/function_validator.py"
+  },
+  {
+    "name": "HouseConstruction",
+    "description": "Constructs a house based on the provided blueprint",
+    "tags": [
+      "construction",
+      "architecture",
+      "building"
+    ],
+    "script": "skills\\HouseConstruction\\scripts/house_construction.py"
+  },
+  {
+    "name": "MaterialFinder",
+    "description": "Finds necessary materials for a given project",
+    "tags": [
+      "programming",
+      "materials",
+      "project"
+    ],
+    "script": "skills\\MaterialFinder\\scripts/material_finder.py"
+  },
+  {
+    "name": "MathOperations",
+    "description": "Performs addition, subtraction, multiplication, and division operations on a given number.",
+    "tags": [
+      "math",
+      "arithmetic",
+      "calculation",
+      "operation"
+    ],
+    "script": "skills\\MathOperations\\scripts/math_operations.py"
+  },
+  {
+    "name": "MultiplicationSkill",
+    "description": "Performs multiplication of two numbers directly, without user input",
+    "tags": [
+      "mathematics",
+      "multiplication",
+      "arithmetic"
+    ],
+    "script": "skills\\MultiplicationSkill\\scripts/multiplication.py"
+  },
+  {
+    "name": "OrganizeGuideIntoSections",
+    "description": "This script organizes a guide into sections by separating the content using section headers.",
+    "tags": [
+      "Python",
+      "GuideOrganization",
+      "Sections"
+    ],
+    "script": "skills\\OrganizeGuideIntoSections\\scripts/organize_guide.py"
+  },
+  {
+    "name": "WeeklyMealPlanner",
+    "description": "Generates a list of meals for each day of the week.",
+    "tags": [
+      "meal",
+      "planning",
+      "diet",
+      "food"
+    ],
+    "script": "skills\\WeeklyMealPlanner\\scripts/weekly_meal_planner.py"
+  },
+  {
+    "name": "WorkoutRoutineGenerator",
+    "description": "Generates a simple workout routine without user input or external dependencies.",
+    "tags": [
+      "Fitness",
+      "Exercise",
+      "Routine"
+    ],
+    "script": "skills\\WorkoutRoutineGenerator\\scripts/workout_routine_generator.py"
+  }
+]
